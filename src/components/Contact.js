@@ -15,10 +15,10 @@ export default function Contact() {
             Vous désirez me contactez ? Vous pouvez le faire à travers ces différentes plateformes
           </p>
           <div className="flex flew-row justify-center mt-10">
-            <a href="https://github.com/Fran6-Dev"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" className="w-20 mx-10" /></a>
-            <a href="https://twitter.com/Fran6_Dev"><img src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png" alt="twitter" className="w-20 mx-10" /></a>
-            <a href="mailto:francislukoki@hotmail.fr"><img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" alt="email" className="w-20 mx-10" /></a>
-            <a href="https://www.linkedin.com/in/francis-lukoki/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" className="w-20 mx-10" /></a>
+            <a href="https://github.com/Fran6-Dev"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" className="w-20 mx-6" /></a>
+            <a href="https://twitter.com/Fran6_Dev"><img src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png" alt="twitter" className="w-20 mx-6" /></a>
+            <a href="mailto:francislukoki@hotmail.fr"><img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" alt="email" className="w-20 mx-6" /></a>
+            <a href="https://www.linkedin.com/in/francis-lukoki/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" className="w-20 mx-6" /></a>
 
           </div>
         </div>
