@@ -11,7 +11,7 @@ export default function About() {
             Developpeur Front End.
           </h1>
           <p className="mb-8 leading-relaxed">
-            Fraichement diplômé en école de commerce, j'ai décidé de me reconvertir dans un univers qui m'attirait depuis plusieurs mois maintenant, le développement web. Apres avoir découvert ce métier en autodidacte, j'ai cherché une formation diplômante me permettant de consolider mes acquis et ainsi être apte au marché du travail. Je suis désormais à la recherche d'un poste en tant que développeur front end React.
+            Issus du secteur du marketing, j’ai depuis maintenant de nombreux mois, entamé une reconvention dans l’univers du développement web. En autodidacte puis à l’aide d’une formation spécialisée, je me suis donc formé à ce métier dans l’objectif de pouvoir monter en compétence et être apte à intégrer le marché du travail. A travers mes différents projets et rencontres avec des professionnels de ce métier, j’ai donc pu acquérir les outils nécessaires pour débuter ma carrière. Suite à cela, je suis désormais à la recherche d’un poste en tant que développeur front React.
           </p>
           <div className="flex justify-center">
             <a
