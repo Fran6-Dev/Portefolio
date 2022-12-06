@@ -31,6 +31,14 @@ export const projects = [
     image: "./projet-2.gif",
     link: "https://github.com/Fran6-Dev/Ohmyfood",
   },
+  {
+    title: "Kasa",
+    subtitle: "Créez application web de location immobilière avec React",
+    description:
+      "Perfectionner l'utilisation de React et de React Router",
+    image: "./projet-5.gif",
+    link: "https://github.com/Fran6-Dev/kasa",
+  },
 ];
 
 
