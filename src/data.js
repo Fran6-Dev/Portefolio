@@ -39,6 +39,14 @@ export const projects = [
     image: "./projet-5.gif",
     link: "https://github.com/Fran6-Dev/kasa",
   },
+  {
+    title: "Netflix Clone",
+    subtitle: "Création du application clone de Netflix avec l'API themoviedb, React.js et Typescript ",
+    description:
+      "Utilisation d'une api externe avec React/Typescript",
+    image: "./projet-6.gif",
+    link: "https://github.com/Fran6-Dev/netflix-clone",
+  },
 ];
 
 
